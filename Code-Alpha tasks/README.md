@@ -1,4 +1,4 @@
-# 💻 Frontend Mini Projects
+# Frontend Mini Projects
 
 This repository contains mini projects created as part of my internship at *CodeAlpha*, focused on building practical web development skills using HTML, CSS, and JavaScript.
 
